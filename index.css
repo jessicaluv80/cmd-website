@@ -4,4 +4,6 @@
 	align-items: center;
 	background-color:lavender;
 }
-.bluetext{font-family:cursive; text-decoration-color:blue;}
+.blue-text{font-family:cursive; text-decoration-color:blue;}
+.Header-font{font-family:sans serif; text-decoration-color:yellow; font-size:40px;}
+
